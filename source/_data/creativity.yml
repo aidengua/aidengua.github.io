@@ -1,0 +1,30 @@
+- class_name: 無限進步。
+  creativity_list:
+    - name: 音箱設計
+      color: "#fff2b0"
+      icon: /img/data/1.png
+    - name: 戶外音響
+      color: "#ffaa65"
+      icon: /img/data/2.png
+    - name: 參賽作品
+      color: "#ecf9ff"
+      icon: /img/data/3.png
+    - name: 電路設計
+      color: "#333"
+      icon: /img/data/4.png
+    - name: 擴大機設計
+      color: "#79b5fa"
+      icon: /img/data/5.png
+    - name: 轉軸結構
+      color: "#fff1e4"
+      icon: /img/data/6.png
+    - name: 音響設計
+      color: "#ffeb82"
+      icon: /img/data/7.png
+    - name: 音箱型態
+      color: "#fff2b0"
+      icon: /img/data/8.png
+    - name: 音箱電路
+      color: "#ffaa65"
+      icon: /img/data/9.png
+  # 色號牌到上排第二個，下個顏色會是#ecf9ff

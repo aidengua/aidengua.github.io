@@ -1,0 +1,65 @@
+- class_name: 關於我
+  subtitle: 音響設計，熱愛創造✨
+  avatarImg: /img/bio.png
+  avatarSkills:
+    left:
+      - 🤖️ 熱愛科技產品
+      - 🔍 分享好用網站
+      - 🏠 智慧家具專家
+      - 🔨 設計製作專家
+    right:
+      - 專業點子維修 🤝
+      - 腳踏實地實作 🏃
+      - 參賽小組實作 🧱
+      - 脾氣相當詭異 💢
+  name: 呂宥德
+  description: 是一位 音響設計師、高中學生、生活紀錄、YouTuber！
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 熱愛而去
+    word:
+      - 體驗
+      - 生活
+      - 實踐
+      - 創造
+  skillsTips:
+    tips: 技能
+    title: 開啟設計與發想的大門
+  careers:
+    tips: 追求
+    title: 無限進步
+    list:
+      - desc: 音響設計
+        color: "#357ef5"
+      - desc: 網頁設計
+        color: "#357ef5"
+      - desc: 生涯規劃
+        color: "#357ef5"
+    img: https://i.imgur.com/7u3rVbR.png
+  map:
+    title: 我現在住在
+    StrengthenTitle: 台灣，台北市內湖區
+    background: /img/map/gmap.png
+    backgroundDark: /img/map/gmap.png
+  selfInfo:
+    selfInfoTips1: 出生於
+    selfInfoContentYear: 2007
+    selfInfoTips2: 台北市無界塾實驗教育機構
+    selfInfoContent2: 音響設計與網頁設計
+    selfInfoTips3: 現在職業
+    selfInfoContent3: 高二學生
+  personalities:
+    author_name: 鐵弱智
+    personality_type: IMSB-A
+    photo_url: https://i.imgur.com/CuUO5lr.jpeg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 暱稱
+    maxim_top: 社交障礙，
+    maxim_bottom: 蔡琴忠實粉絲。
+  buff:
+    buff_tips: 專業
+    buff_top: 有想像力與實作能力的 河豚
+    buff_bottom: 課堂分心指數 ++
