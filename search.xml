@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>專案旅行-專案設計</title>
+      <link href="/2024/11/12/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E5%B0%88%E6%A1%88%E8%A8%AD%E8%A8%88/"/>
+      <url>/2024/11/12/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E5%B0%88%E6%A1%88%E8%A8%AD%E8%A8%88/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>比賽紀錄之第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽</title>
+      <link href="/2024/11/06/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E6%96%B0%E8%88%88%E7%A7%91%E6%8A%80/"/>
+      <url>/2024/11/06/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E6%96%B0%E8%88%88%E7%A7%91%E6%8A%80/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽"><a href="#第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽" class="headerlink" title="第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽"></a>第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽</h1><p>這是我（呂宥德）與校內同學張鈞傑第四次一同參與校外競賽。這一次比賽主辦方為國立臺南第二高級中學，比賽地點在國立成功大學綠色魔法學校。<br>除了是我與張鈞傑又一次的以無界塾實驗教育機構學生身分參賽外，也是第一次來到台南成功大學參加比賽，這所學校給我的第一印象就是校區大設備多，我們也是經過初審後才來到決賽，今天進到決賽場地時心中帶著幾分忐忑與勢必要拿出實力的心態進到了成功大學色魔法學校中。這一次決賽上台報告時間僅有10分鐘，我們需要介紹完整簡報以及在10分鐘裡面展示自己的作品，最後在解釋完未來展望後會有3分鐘時間交由評審教授們提問，簡報則會統一由主辦方提供的電腦播放。</p><a class="btn-anzhiyu blue smaller" href="https://www.tnssh.tn.edu.tw/2024/11/03/%e3%80%90%e7%a7%98%e6%9b%b8%e5%ae%a4%e3%80%91%e6%9c%ac%e6%a0%a1%e4%b8%bb%e8%be%a62024%e7%ac%ac%e4%b8%83%e5%b1%86%e5%85%a8%e5%9c%8b%e4%b8%ad%e7%ad%89%e5%ad%b8%e6%a0%a1%e5%ad%b8%e7%94%9f%e6%96%b0-2/"   title="第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽 公告區"><i class="anzhiyufont anzhiyu-icon-file-word"></i><span>第七屆全國中等學校學生新興科技－智慧物聯網創意應用競賽 公告區</span></a><h1 id="我們的比賽主題"><a href="#我們的比賽主題" class="headerlink" title="我們的比賽主題"></a>我們的比賽主題</h1><p>我們的比賽作品名稱為「Ecogroove 戶外智慧藍牙音響」，由我擔任小組隊長，張鈞傑則是組員。小組分工與以往相同，我負責硬體製作，然後交由張鈞傑負責程式編寫。這次的作品依然是音響，但我們的主軸從原先的情緒分析語音助理轉變為一款能夠點歌並透過語音控制音響燈光的小助理。使用情境也從之前較為簡單的室內音響轉為更適合戶外使用的完整設計，音響外殼更具可攜性與耐用性。同時，我們這次也準備了完整的SDGs（永續發展目標）連結，並採用了太陽能充電概念與環保材料製作外殼。此外，鈞傑設計的物聯網系統與音響相互連動，為這次的作品增添了智能功能。</p><p>這也是我們音響名稱「Ecogroove」的由來：Eco代表環保，象徵著對環境傷害的最小化；Groove則是律動與舞動的象徵，代表音響的燈光會隨著音樂節奏舞動，營造出在戶外聽音樂的氣氛。</p><h1 id="設計與實作過程"><a href="#設計與實作過程" class="headerlink" title="設計與實作過程"></a>設計與實作過程</h1><p>這次比賽的時程非常緊迫。我們在得知進入決賽後立即開始著手製作作品，然而，從收到決賽入圍通知到真正的比賽日，僅有短短一周的準備時間。更巧的是，這段時間恰好與學校的專案旅行重疊，這使得我們的準備時間被大大壓縮，剩下的時間只有三天來完成作品及簡報。這時，我的焦慮可想而知，甚至連思考如何處理焦慮的時間都沒有，只能火速投入工作，開始策劃音響結構。</p><p>這次的音響系統設計採用兩段式結構。上半部分結合ESP32，實現軟體控制音響的功能，因此也配備了燈光效果，並且整合了電力系統和音響裝置。下半部分則是充電座模塊，我特別將綠能理念融入其中，讓充電座不僅能為音響提供充電，還能進行太陽能轉電能的綠能轉換。具體來說，我將充電座的背面設計為安裝台陽能光電板的區域，正面則作為音響的底座，同時提供音響的充電功能，實現了點對點充電的效果。</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://i.imgur.com/1dVssCS.jpeg" style="width:800px;"/></div></div><h2 id="分工合作"><a href="#分工合作" class="headerlink" title="分工合作"></a>分工合作</h2><p>呂宥德</p><blockquote><p>負責音響主體製作與硬體電源管理部分</p></blockquote><p>張鈞傑</p><blockquote><p>負責物聯網燈校控制硬體與程式部分</p></blockquote><h2 id="技術解析"><a href="#技術解析" class="headerlink" title="技術解析"></a>技術解析</h2><p>由於這次的比賽作品有兩個實作項目，其中所運用的材料與技術結合各有不同，所以我將分開個別解析兩者技術差異與重點之處。</p><h3 id="音響主體設計"><a href="#音響主體設計" class="headerlink" title="音響主體設計"></a>音響主體設計</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://i.imgur.com/qTEKBOw.jpeg" style="width:800px;"/></div></div><p>這部分為音響主體在上蓋開啟後的上視圖，音響主體內部電路集成在音響背板上，只有ESP32能夠熱插拔（用於程式更改後便於重新輸入到板子內部），上蓋設有螺絲開孔可以在組裝完成之後作為之後的維修口，</p><h3 id="充電模組設計"><a href="#充電模組設計" class="headerlink" title="充電模組設計"></a>充電模組設計</h3><p>2</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 比賽紀錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 比賽紀錄 </tag>
+            
+            <tag> 多元表現 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高二專案旅行第三天筆記與心得</title>
+      <link href="/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%B8%89%E5%A4%A9/"/>
+      <url>/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="專案旅行前導介紹"><a href="#專案旅行前導介紹" class="headerlink" title="專案旅行前導介紹"></a>專案旅行前導介紹</h1><p>請看旅行第一天記錄！</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.dreamersaudio.shop/2024/10/31/專案旅行-第一天/">    <div class="tag-link-tips">引用外網文章</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">點擊連結查看我們第一天的活動與日程</div>            <div class="tag-link-sitename">專案旅行前導介紹</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="第三天行程"><a href="#第三天行程" class="headerlink" title="第三天行程"></a>第三天行程</h2><div class="note green anzhiyufont anzhiyu-icon-ic_train disabled"><p>專案旅行追日出日！</p></div><details class="folding-tag" cyan open><summary> 查看我們的專案旅行第一天行程與景點！ </summary>              <div class='content'>              <div class="timeline purple"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2024&#x2F;10&#x2F;30 | 週三</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午9:20</p></div></div><div class='timeline-item-content'><p>到銘記買早餐跟吃著昨天一樣內容！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午9:40</p></div></div><div class='timeline-item-content'><p>跟隨張鈞傑做他的作品記錄在鐵花村</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午10:00</p></div></div><div class='timeline-item-content'><p>到旅館休息與整理行李準備離開</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午11:20</p></div></div><div class='timeline-item-content'><p>台東火車站尋找午餐跟伴手禮（我沒買）</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午11:30</p></div></div><div class='timeline-item-content'><p>吃台東車頭玉里麵</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午1:10</p></div></div><div class='timeline-item-content'><p>搭火車離開啦！因為颱風被吹回台北了</p></div></div></div>              </div>            </details><h2 id="復盤紀錄"><a href="#復盤紀錄" class="headerlink" title="復盤紀錄"></a>復盤紀錄</h2><p>因為颱風的緣故，我們的專案旅行不得不止步於第三天的台東。今天下午，我們將乘火車返回台北。這次旅途中，面對這樣的結束，大家都沉默不語，心中有著不捨，但卻無力阻擋颱風步步逼近。為了安全著想，我們只能接受這無奈的現實。</p><p>一早醒來，組員們都顯得無精打采。我和何凡再次來到昨日拍攝日出後光顧的早餐店，而張鈞傑則在旅館附近繼續他的專案工作，這便成為我們在台東的最後一段行程。吃完早餐並收拾妥當後，我們便匆匆趕往台東火車站。臨行前的最後一餐，我們選擇了火車站附近的玉里麵，品嚐道地風味的同時，也總結了這幾天的收穫與感悟。下午1:10，我們搭上返程的列車，帶著未竟的旅程回到台北。</p><h2 id="當日記帳"><a href="#當日記帳" class="headerlink" title="當日記帳"></a>當日記帳</h2><p><em>呂宥德的專案旅行第三天開銷！</em></p><table><thead><tr><th>項目</th><th>花費（新台幣）</th><th>備註</th></tr></thead><tbody><tr><td>早餐</td><td>139</td><td>媽媽喜歡的SJ周邊、銘記水煎包飯糰加大杯無糖豆漿</td></tr><tr><td>午餐</td><td>120</td><td>台東車頭玉里麵的大碗玉里麵和粉腸湯</td></tr><tr><td><strong>總計</strong></td><td>259</td><td>第三天統計</td></tr></tbody></table><h2 id="精選照片"><a href="#精選照片" class="headerlink" title="精選照片"></a>精選照片</h2><p><strong>如果你喜歡我第一天的作品那還請您持續關注專案旅行第一天的樣片日記！</strong></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.dreamersaudio.shop/2024/10/31/專案旅行-第一天/">    <div class="tag-link-tips">引用外網文章</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">點擊連結查看我們第一天的文章</div>            <div class="tag-link-sitename"> 進入專案旅行第一天的博客空間</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="我的小組成員"><a href="#我的小組成員" class="headerlink" title="我的小組成員"></a>我的小組成員</h2><div class="btns rounded grid4">            <a class="button no-text-decoration" href='https://www.btsflip.org/' title='呂宥德'><img src='/img/bio.png'>呂宥德</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='張鈞傑'><img src='https://i.imgur.com/i8GuXkt.jpeg'>張鈞傑</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='何凡'><img src='https://i.imgur.com/PNobosO.jpeg'>何凡</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='朱哲民'><img src='https://www.btsflip.org/wp-content/uploads/2024/02/team_2-6.png'>朱哲民</a>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 課堂筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 專案旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高二專案旅行第二天筆記與心得</title>
+      <link href="/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%BA%8C%E5%A4%A9/"/>
+      <url>/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="專案旅行前導介紹"><a href="#專案旅行前導介紹" class="headerlink" title="專案旅行前導介紹"></a>專案旅行前導介紹</h1><p>請看旅行第一天記錄！</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.dreamersaudio.shop/2024/10/31/專案旅行-第一天/">    <div class="tag-link-tips">引用外網文章</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">點擊連結查看我們第一天的活動與日程</div>            <div class="tag-link-sitename">專案旅行前導介紹</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="第二天行程"><a href="#第二天行程" class="headerlink" title="第二天行程"></a>第二天行程</h2><div class="note green anzhiyufont anzhiyu-icon-ic_train disabled"><p>專案旅行追日出日！</p></div><details class="folding-tag" cyan open><summary> 查看我們的專案旅行第一天行程與景點！ </summary>              <div class='content'>              <div class="timeline purple"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2024&#x2F;10&#x2F;29 | 週二</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>清晨5:40</p></div></div><div class='timeline-item-content'><p>奔跑到海濱公園追尋日出，定點後開啟腳架等待太陽升起！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>清晨6:40</p></div></div><div class='timeline-item-content'><p>結束拍攝，到銘記水煎包吃早餐，我吃了飯糰加蛋跟一杯無糖豆漿</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午9:00</p></div></div><div class='timeline-item-content'><p>回到宿舍睡覺啦，因為太累了</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午9:50</p></div></div><div class='timeline-item-content'><p>到達寶町藝文中心紀錄，寶町藝文中心後門體驗防颱門的裝設</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>中午12:00</p></div></div><div class='timeline-item-content'><p>午餐時間，今天吃雙醬咖哩！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午2:00</p></div></div><div class='timeline-item-content'><p>到達太麻里文創咖啡館休息與討論明天是否要因為颱風取消行程回到台北</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午3:00</p></div></div><div class='timeline-item-content'><p>台東設計中心查看在地文官方創產</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午4:20</p></div></div><div class='timeline-item-content'><p>在鐵道藝術村拍火車跟尋找媒材</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午6:00</p></div></div><div class='timeline-item-content'><p>四海遊龍吃晚餐何凡跟老師跑路了，我跟鈞傑去吃了鍋貼</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午6:40</p></div></div><div class='timeline-item-content'><p>到民宿附近的肯德基KFC吃炸雞</p></div></div></div>              </div>            </details><h2 id="復盤紀錄"><a href="#復盤紀錄" class="headerlink" title="復盤紀錄"></a>復盤紀錄</h2><p>今天得知了一個不太好的消息！由於颱風可能會影響週三的行程安排，我們或許需要臨時調整計畫，並取消租車。這樣一來，整體活動可能被打亂。若颱風真的登陸台灣，我們甚至可能得提前在週三下午離開台東，這讓我們感到相當無奈。</p><p>回到今天的行程，我們依計畫前往寶町藝文中心。到達後，我們遇到導覽人員，他向我們介紹了這棟日治時期建築的設計理念和技術細節。從當時官員的官職布局出發，我們逐漸了解了建築內房間配置的意涵。我也是第一次知道，當時會專門製作拉門，以便在官員開會時隔絕其他空間。導覽員還提到，寶町藝文中心所在區域不僅有這一棟日式建築，街區後方也保留了許多未被改建的日式建築。然而，由於修繕工程進度緩慢，這些建築還未完成轉型。未來或許會有更多當時官員的住所被重新修建、活化。</p><p>接著我們進入展覽空間。寶町藝文中心對展覽作品的形式並無嚴格限制，只要創作者有意願，都可以將作品呈現於此。導覽員向我們介紹了此次展出的作品，主題圍繞著台東風光，有來自外縣市的藝術家以台東為靈感創作的作品，也有台東本地藝術家創作的佳作。相比於畫作，我的目光逐漸被這棟建築中精巧的結構吸引。這裡的設計體現了「工業設計行隨機能」的原則，即以實用需求為基礎，化繁為簡、巧奪天工，將設計的美感與功能融為一體。很難想像在1937年，建築技術尚不發達的情況下，匠師們如何做到「因地制宜」、「匠心獨運」，讓這些機能設計成為建築中的藝術。或許正是因為當時機具不足，才造就了這些如藝術品般的構造設計，讓人不禁感嘆先人的智慧與創造力。</p><h2 id="當日記帳"><a href="#當日記帳" class="headerlink" title="當日記帳"></a>當日記帳</h2><p><em>呂宥德的專案旅行第二天開銷！</em></p><table><thead><tr><th>項目</th><th>花費（新台幣）</th><th>備註</th></tr></thead><tbody><tr><td>早餐</td><td>60</td><td>銘記水煎包的飯糰加蛋跟豆漿</td></tr><tr><td>午餐</td><td>135</td><td>雙醬咖哩的經典炸豬排雙醬</td></tr><tr><td>下午茶</td><td>150</td><td>太麻里文創咖啡館的洛神花茶</td></tr><tr><td>晚餐</td><td>162</td><td>四海遊龍的鍋貼加青菜跟貢丸湯</td></tr><tr><td><strong>總計</strong></td><td>507</td><td>第二天統計</td></tr></tbody></table><h2 id="精選照片"><a href="#精選照片" class="headerlink" title="精選照片"></a>精選照片</h2><p>追尋日出的腳步，我們出發去迎接這一天的第一縷曙光。俗話說，忙碌的一天往往從早晨開始，而今天我們深刻體會到，旅途中即使再興奮的身體，也難以抵擋連日晚睡早起的疲憊。儘管如此，當我們拖著尚未完全清醒的身軀，來到昨日精心選好的拍攝點，立下腳架靜靜等待太陽的升起，這份期待與興奮卻是難以言喻的感受。</p><p>第一次嘗試拍攝日出，技巧上或許略顯稚嫩，但若您願意，也邀請您與我們一起欣賞這難得的靜謐時刻。我們的樣片日記，正是專案旅行的第二天主題：「追日」。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload lazyload btn_album_detail_lazyload data" data-rowHeight="220" data-limit="2">    <span class="gallery-data">[{"url":"https://i.imgur.com/0hboIK8.jpeg","alt":""},{"url":"https://i.imgur.com/x95KFYf.jpeg","alt":""},{"url":"https://i.imgur.com/YRQvDdw.jpeg","alt":""},{"url":"https://i.imgur.com/7KLatFP.jpeg","alt":""},{"url":"https://i.imgur.com/MHGSpPe.jpeg","alt":""},{"url":"https://i.imgur.com/PXAllsa.jpeg","alt":""},{"url":"https://i.imgur.com/MVmpnSS.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>載入更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><div class="note info disabled"><p>台東海濱公園</p></div><p>這趟旅程無疑會成為難忘的回憶，與我們四人共同經歷的美好時光。迎著陣陣海風，我們架起相機，對準即將破曉的陽光——這一刻，所有付出都顯得如此值得。在此，也要由衷地感謝一路陪伴我們的哲民老師，即便清晨早起也毫無怨言，一邊幫我們紀錄點滴，一邊與我們共享這難得的海岸美景。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload lazyload btn_album_detail_lazyload data" data-rowHeight="220" data-limit="2">    <span class="gallery-data">[{"url":"https://i.imgur.com/LBrRBDn.jpeg","alt":""},{"url":"https://i.imgur.com/dDOkbvl.jpeg","alt":""},{"url":"https://i.imgur.com/OldujDv.jpeg","alt":""},{"url":"https://i.imgur.com/wGUQNUy.jpeg","alt":""},{"url":"https://i.imgur.com/RymTNGj.jpeg","alt":""},{"url":"https://i.imgur.com/xSRM7ZP.jpeg","alt":""},{"url":"https://i.imgur.com/YOOOpxT.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>載入更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><div class="note info disabled"><p>鐵道藝術村</p></div><p>來到鐵道藝術村，這裡展示著昔日繁榮的車站和載滿當地人回憶的車廂，一種歲月流轉的厚重感撲面而來。而在這裡，我也發現了此次旅途中要蒐集的創作新媒材：「豆莢」。旅途結束後，我將以這些豆莢為素材進行雕刻，用圖騰和獨特色彩，表現台東的自然風光。</p><p>除了素材蒐集之外，我也特別記錄下小組成員們的神態，為大家創作頭像，以此作為美好旅程的留念。</p><p><strong>如果你喜歡我第一天的作品那還請您持續關注專案旅行第三天的樣片日記！</strong></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.dreamersaudio.shop/2024/10/31/專案旅行-第三天/">    <div class="tag-link-tips">引用外網文章</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">點擊連結查看我們第三天的文章</div>            <div class="tag-link-sitename"> 進入專案旅行第三天的博客空間</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="我的小組成員"><a href="#我的小組成員" class="headerlink" title="我的小組成員"></a>我的小組成員</h2><div class="btns rounded grid4">            <a class="button no-text-decoration" href='https://www.btsflip.org/' title='呂宥德'><img src='/img/bio.png'>呂宥德</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='張鈞傑'><img src='https://i.imgur.com/i8GuXkt.jpeg'>張鈞傑</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='何凡'><img src='https://i.imgur.com/PNobosO.jpeg'>何凡</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='朱哲民'><img src='https://www.btsflip.org/wp-content/uploads/2024/02/team_2-6.png'>朱哲民</a>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 課堂筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 專案旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高二專案旅行第一天筆記與心得</title>
+      <link href="/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+      <url>/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="專案旅行前導介紹"><a href="#專案旅行前導介紹" class="headerlink" title="專案旅行前導介紹"></a>專案旅行前導介紹</h1><p>專案旅行是無界塾高二學生自行安排的活動，與各自的專案相關，為期五天四夜。前三天的行程由學生完全規劃，可以選擇製作與專案相關的活動，並與組員協調活動內容或景點，也可以安排適當的休閒娛樂活動，但整體以專案製作為主軸。</p><p>第四、五天的行程則由老師安排一部分活動，帶我們前往台東的新武部落，與當地小學生交流。我們將介紹學校，並由學生設計活動讓小朋友們參與。此外，第四天晚上到第五天，我們會在新武部落過夜，這是專案旅行的重點之一，讓大家有一晚共同住宿的經驗。</p><p>至於由學生規劃的前三天（週一至週三），每組會自行訂住宿地點，各組將住在不同的飯店，小組指導老師會隨組同行並同住。</p><h2 id="第一天行程"><a href="#第一天行程" class="headerlink" title="第一天行程"></a>第一天行程</h2><div class="note green anzhiyufont anzhiyu-icon-ic_train disabled"><p>專案旅行啟程日！</p></div><details class="folding-tag" cyan open><summary> 查看我們的專案旅行第一天行程與景點！ </summary>              <div class='content'>              <div class="timeline purple"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2024&#x2F;10&#x2F;28 | 週一</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午7:40</p></div></div><div class='timeline-item-content'><p>在台北車站吃著全家的小漢堡</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午8:10</p></div></div><div class='timeline-item-content'><p>全員集合在台北車站東三門發放車票</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午8:40</p></div></div><div class='timeline-item-content'><p>搭乘自強號3000從台北車站啟程</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>上午11:40</p></div></div><div class='timeline-item-content'><p>在自強號3000上吃便當 </p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午1:30</p></div></div><div class='timeline-item-content'><p>自強號3000到達台東<br>在台東車站搭乘計程車去旅館存行李</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午2:40</p></div></div><div class='timeline-item-content'><p>進入台東東東市欣賞文創商品與在地文化</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午3:50</p></div></div><div class='timeline-item-content'><p>到達國立臺東生活美學館欣賞台東藝術展品與雕塑</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午4:20</p></div></div><div class='timeline-item-content'><p>跟何凡去偷偷買到地黑輪來吃！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午未知時間</p></div></div><div class='timeline-item-content'><p>到達海濱公園做明天日出拍攝採點與夕陽拍攝</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午6:10</p></div></div><div class='timeline-item-content'><p>到達台東鐵花村拍攝燈籠與原住民文化文創商品</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午7:10</p></div></div><div class='timeline-item-content'><p>吃晚餐時間</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午7:50</p></div></div><div class='timeline-item-content'><p>阿宏炸雞吃雞翅和知名臭豆腐店吃臭豆腐！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>下午8:20</p></div></div><div class='timeline-item-content'><p>回到日暮微旅休息啦</p></div></div></div>              </div>            </details><h2 id="復盤紀錄"><a href="#復盤紀錄" class="headerlink" title="復盤紀錄"></a>復盤紀錄</h2><p>今天的第一個景點是台東生活美學館，而這裡和我原先的想像差距不小。我原本預期會看到許多台東在地的陶藝作品，包含原住民文化相關的創作，但實際上展出的作品多半來自其他地區的藝術家，和台東當地文化的關聯並不強。不過，欣賞到一些非常創新的媒材和創作概念，對我來說也是一種收穫。</p><p>接著我們來到台東海濱公園，為明天的日出拍攝進行踩點。看著今天的雲層，感覺還不錯，明天應該有機會看到日出；颱風移動的速度也不快，似乎天氣狀況還行！</p><p>之後我們回到飯店稍作休息，然後帶著相機前往鐵花村。可惜今天鐵花村沒有市集，所以我提早參觀了原定週二才要去的 TTStyle 原創館。意外的是，這裡讓我有了新的收穫。台東的文創館和台北的風格差異明顯，台北的文創商店多半將創作作品包裝成商品來販售，而這裡則是將原住民文化直接呈現於店內。商品大多來自原住民部落的青年創作，匯集了許多在地的作品和文創商品。</p><p>不過，這種形式也帶來了有趣的現象。當我挑選了一些我覺得值得收藏的作品後，發現店內的老闆並無法詳細描述每件作品的故事，這讓我感到有些可惜。這些富有文化價值的作品在進入店裡後，似乎就像放進了熔爐一樣，被標上價格卻失去了背後的故事。我原本的期望是透過了解這些作品的圖騰意涵，進而把這些文化元素融入我自己的作品中，使它們也因為圖騰而具有個性。然而，實際上要達到這樣的目標似乎還有些難度。</p><h2 id="當日記帳"><a href="#當日記帳" class="headerlink" title="當日記帳"></a>當日記帳</h2><p><em>呂宥德的專案旅行第一天開銷！</em></p><table><thead><tr><th>項目</th><th>花費（新台幣）</th><th>備註</th></tr></thead><tbody><tr><td>早餐</td><td>45</td><td>在台北車站的全家吃了滿福寶</td></tr><tr><td>午餐</td><td>120</td><td>在火車上的台鐵便當跟水</td></tr><tr><td>下午點心</td><td>30</td><td>到台東放行李後吃兩支黑輪</td></tr><tr><td>晚餐</td><td>80</td><td>到雞肉飯專賣店吃豬肝肉燥麵</td></tr><tr><td>晚餐點心</td><td>145</td><td>炸雞翅、青草茶</td></tr><tr><td><strong>總計</strong></td><td>420</td><td>第一天統計</td></tr></tbody></table><h2 id="精選照片"><a href="#精選照片" class="headerlink" title="精選照片"></a>精選照片</h2><p>第一天還在適應專案旅行的狀態，拍攝的作品不多，但希望這能作為樣片日記的良好開端。如果你不介意欣賞我隨心拍下的台東景色，那就一起看下去吧。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload lazyload btn_album_detail_lazyload data" data-rowHeight="220" data-limit="2">    <span class="gallery-data">[{"url":"https://i.imgur.com/ncSnc3h.jpeg","alt":""},{"url":"https://i.imgur.com/xxyz0ca.jpeg","alt":""},{"url":"https://i.imgur.com/412teIx.jpeg","alt":""},{"url":"https://i.imgur.com/BQJyicV.jpeg","alt":""},{"url":"https://i.imgur.com/dOP6h95.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>載入更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><div class="note info disabled"><p>台東生活美學館的樣片紀錄</p></div><p>傳承中華傳統文化的雕塑，用特別的角度看水墨畫。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload lazyload btn_album_detail_lazyload data" data-rowHeight="220" data-limit="2">    <span class="gallery-data">[{"url":"https://i.imgur.com/tsTWmLG.jpeg","alt":""},{"url":"https://i.imgur.com/h7Gm4Qo.jpeg","alt":""},{"url":"https://i.imgur.com/G2D188L.jpeg","alt":""},{"url":"https://i.imgur.com/uj4oTiw.jpeg","alt":""},{"url":"https://i.imgur.com/tinrZkf.jpeg","alt":""},{"url":"https://i.imgur.com/WUzbDxL.jpeg","alt":""},{"url":"https://i.imgur.com/ZFVkweM.jpeg","alt":""},{"url":"https://i.imgur.com/4aHW7DM.jpeg","alt":""},{"url":"https://i.imgur.com/qqtCFOa.jpeg","alt":""},{"url":"https://i.imgur.com/tBied3C.jpeg","alt":""},{"url":"https://i.imgur.com/yFjYDXG.jpeg","alt":""},{"url":"https://i.imgur.com/F9RUcRu.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>載入更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><div class="note info disabled"><p>台東海濱公園</p></div><p>在這片大自然的交響曲中，萬物的聲音似乎都被掩蓋。我忽然領悟到，一趟專案旅行中重要的不僅是探索在地的人文與人造藝術作品，更應該靜心聆聽大自然的交響樂。看著海浪一波波拍打石灘，心境也隨之沉靜。享受這份難得的愜意之時，也記錄下第一天樣片日記中最美的一幕：聽見大自然的聲音。</p><div class="gallery">  <div class="fj-gallery page_img_lazyload lazyload btn_album_detail_lazyload data" data-rowHeight="220" data-limit="2">    <span class="gallery-data">[{"url":"https://i.imgur.com/WVnDq5x.jpeg","alt":""},{"url":"https://i.imgur.com/7T3hR6Y.jpeg","alt":""},{"url":"https://i.imgur.com/ap9HkwH.jpeg","alt":""},{"url":"https://i.imgur.com/qNqxtL0.jpeg","alt":""},{"url":"https://i.imgur.com/jC354Ni.jpeg","alt":""},{"url":"https://i.imgur.com/G3Pq6pv.jpeg","alt":""},{"url":"https://i.imgur.com/7MSRp8H.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>載入更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div><div class="note info disabled"><p>台東鐵花村</p></div><p>回到住宿附近時，天色已近黃昏，微風輕拂著小朋友們創作的燈籠，發出沙沙的聲音。微光映襯下，這美好的瞬間讓我和同伴不約而同拿起相機記錄。雖然在現代社會，燈籠的意義似乎已不如從前，但上面承載了許多孩子的心聲。照片中的燈籠提醒我們，那些平日被忽略的感受與聲音，其實才是生活中重要的片刻。</p><p><strong>如果你喜歡我第一天的作品那還請您持續關注專案旅行第二天的樣片日記！</strong></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.anzhiyu.shop/2024/10/31/%E5%B0%88%E6%A1%88%E6%97%85%E8%A1%8C-%E7%AC%AC%E4%BA%8C%E5%A4%A9/">    <div class="tag-link-tips">引用外網文章</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">點擊連結查看我們第二天的文章</div>            <div class="tag-link-sitename"> 進入專案旅行第二天的博客空間</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="我的小組成員"><a href="#我的小組成員" class="headerlink" title="我的小組成員"></a>我的小組成員</h2><div class="btns rounded grid4">            <a class="button no-text-decoration" href='https://www.btsflip.org/' title='呂宥德'><img src='/img/bio.png'>呂宥德</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='張鈞傑'><img src='https://i.imgur.com/i8GuXkt.jpeg'>張鈞傑</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='何凡'><img src='https://i.imgur.com/PNobosO.jpeg'>何凡</a><a class="button no-text-decoration" href='https://www.btsflip.org/' title='朱哲民'><img src='https://www.btsflip.org/wp-content/uploads/2024/02/team_2-6.png'>朱哲民</a>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 課堂筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 專案旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>課堂筆記-漁村創業</title>
+      <link href="/2024/10/11/%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98-%E6%BC%81%E6%9D%91%E5%89%B5%E6%A5%AD/"/>
+      <url>/2024/10/11/%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98-%E6%BC%81%E6%9D%91%E5%89%B5%E6%A5%AD/</url>
+      
+        <content type="html"><![CDATA[<h1 id="10-11-課堂筆記"><a href="#10-11-課堂筆記" class="headerlink" title="10&#x2F;11 課堂筆記"></a>10&#x2F;11 課堂筆記</h1><p>今天的週五探索日第二堂課課堂筆記。</p><h2 id="主題介紹"><a href="#主題介紹" class="headerlink" title="主題介紹"></a>主題介紹</h2><p><strong>漁村創業 x 食魚教育 x 實踐學習</strong><br>作者：廖宜霈 &#x2F; 股份魚鄉共同創辦人</p><h3 id="認識食農教育"><a href="#認識食農教育" class="headerlink" title="認識食農教育"></a>認識食農教育</h3><p>合為食農教育是指從生活中認識的食物出發，理解原料和認識農業食業產業鏈。就像台灣許多魚的來源來自於屏東，也許大家對漁業沒有沒有一定的共鳴，但是也許我們應該要回歸到最源頭之處了解生活中的食物來自哪裡，以及這些產業鏈在生產的過程。</p><h3 id="認識股份魚鄉"><a href="#認識股份魚鄉" class="headerlink" title="認識股份魚鄉"></a>認識股份魚鄉</h3><p>位在台南七股，由一群漁民、老師、攝影師共同創辦。從學校開始帶領學生認識食魚教育與宣導，到2023的地方創生與2024的環境保護生態友善漁業研究與SDGs，宗旨讓台南七股的漁業變得有趣，讓漁村變得有趣，讓學生在玩的同時可以學習，了解漁民的生活。</p><h2 id="創業契機"><a href="#創業契機" class="headerlink" title="創業契機"></a>創業契機</h2><p>看見的問題：在台南七股的黑面琵鷺因為棲息地關係，許多漁業所使用之藥物與處理死於方式會讓黑面琵鷺中毒或死亡，而政府則希望水產可以改變，不要利用化學藥物或能夠妥善處裡死魚等方式。漁民並非討厭黑面琵鷺或不支持保育，但政府所做出的漁業改變計畫會讓漁民的收益降低，這讓漁民無法改變現狀。<br>而老師則想透過宣傳的方式讓保育黑面琵鷺這一話題和友善、乾淨的漁業可以被大眾熟知，得以受到推廣。於是帶有教育意義的食魚教育就此展開，從漁民是老師認識食物的生命體質出發，魚場是教室，讓大眾透過教育活動參與漁民的生活了解生活中食物的來源，進而去推廣七股漁業發展。</p><h3 id="如何讓台南政府支持"><a href="#如何讓台南政府支持" class="headerlink" title="如何讓台南政府支持"></a>如何讓台南政府支持</h3><p>以台中人的角度出發，用更全面的計畫案去說服政府支持並推動教育形式的漁業改革。透過到在地尋找與魚塭合作的機會去做教育，也透過租借空間的方式做小教室開課，只要是可以上課的環境都可以作為集合地點並做課程，沒有特定工作環境，會在七股的許多地方設有聚點。</p><h3 id="如何讓漁民同意觀光客進入魚塭"><a href="#如何讓漁民同意觀光客進入魚塭" class="headerlink" title="如何讓漁民同意觀光客進入魚塭"></a>如何讓漁民同意觀光客進入魚塭</h3><p>老師創造了屬於自己的商界模式，在傳統台灣偏鄉的產業合作比較避諱一開頭就討論利弊與賺取的利潤，但作為教育為目的的產業合作，老師將利潤放在話題討論最開頭直接說明漁民合作每個人頭可以分得多少費用，接著才討論如何做產業結合將漁業結合教育，漁民為整個活動帶領魚塭介紹與教育的主角，漁民帶領學員認識自己最熟知的工作環境，讓漁民也可以有教學熱誠與成就感，透過這樣的模式，接洽下第一個合作案後慢慢地就會有更多合作的契機與漁民合作。而漁民也了解這樣的產學合作不一定賺錢，但絕對不會賠錢，且可以讓更多人認識自己在從事的產業，跟更多人聊天。</p><h3 id="模式與賦予的教育"><a href="#模式與賦予的教育" class="headerlink" title="模式與賦予的教育"></a>模式與賦予的教育</h3><p>從教具到讓學員真正的可以認識殺魚和去骨等過程，最終讓學生一同料理，可以完整認識從水中到飯桌的過程。所以從合作漁民到結合水產售賣建立有統一報價產業，慢慢建立產線，由於七股漁業的數量較少無法將魚送入加工廠，於是便決定策畫從0開始學習加工的過程，並且讓魚可以在七股加工，從殺魚、去鱗、去內臟，學習建立產線的過程。也在這一過程中意外的有契機與當地小學合作，讓學生認識殺魚的過程。除去產線的建立，也可以讓學生學習產線的工作流程，讓整個流程可以納入教育意義。   </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 課堂筆記 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 創業筆記 </tag>
+            
+            <tag> 課堂筆記 </tag>
+            
+            <tag> 無界塾課程內容 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TWS辦公桌音響設計</title>
+      <link href="/2024/10/08/TWS%E8%BE%A6%E5%85%AC%E6%A1%8C%E9%9F%B3%E9%9F%BF%E8%A8%AD%E8%A8%88/"/>
+      <url>/2024/10/08/TWS%E8%BE%A6%E5%85%AC%E6%A1%8C%E9%9F%B3%E9%9F%BF%E8%A8%AD%E8%A8%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="TWS桌面藍芽音響設計概念"><a href="#TWS桌面藍芽音響設計概念" class="headerlink" title="TWS桌面藍芽音響設計概念"></a>TWS桌面藍芽音響設計概念</h1><p>為一款具備高可行性的可分離式藍芽音響，透過模塊化設計，將真無線藍芽耳機的設計概念轉至桌面音響。主體有三個分布，左右聲道的音響與主充電座，充電座可以為兩個音響充電，當你音響充滿電後可以將左右聲道音響放置於桌面或辦公場所任一處，啟動音響後兩台音響自動對接並同步播放來自一台手機的藍芽訊號（音樂），這樣的設計其實並不新鮮，早在多年前就有公司將藍芽音響以一對的方式售賣，可以讓兩台音響連接同一部手機播放音頻，但往往這些音響看上去獨立，沒有一體性，更像是兩個相同的產品但是有一個能夠連接的生態系統。我的設計是將這個想法沿用，並賦予這類音響真正的使用情境與社和使用的場所，讓這一巧妙的分離式設計可以和諧出現在辦公室當中。</p><h3 id="設計參考與學習"><a href="#設計參考與學習" class="headerlink" title="設計參考與學習"></a>設計參考與學習</h3><p>這次的設計除了效仿市面上真無線藍芽耳機之使用邏輯外，也參考以下這部對於處點接觸音響設計的概念影片。</p><div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/iOkK694KiNo?si=-4L4o6cER-wYmB82&amp;start=766" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><h1 id="設計方式"><a href="#設計方式" class="headerlink" title="設計方式"></a>設計方式</h1><h2 id="概念解析"><a href="#概念解析" class="headerlink" title="概念解析"></a>概念解析</h2><p>TWS桌面藍芽音響設計核心要做到的就是讓兩片存在於不同位置的主板可以透過藍芽對接，並分配誰負責左聲道與右聲道，這一次我選用南京舒爾斯功放設計的BDM0藍芽功放板，瓦數為6w，支援雙揚聲器與2.0立體聲。所以設計當中左右聲道音響個會放入一片BDM0藍芽功放板，兩台音響啟動後會一台為主機，連接另一台音響後與手機對接，接收手機訊號，再將訊號分配左聲道由左聲道音響發出，右聲道則為右聲道發出，這時的兩台音響為獨立使用毋需插電。使用者便可以將音響充電座放置於可充電處為充電座續電。當音響需要充電時再將充電座從插座處取下為兩台音響充電，使用邏輯與真無線藍芽耳機相似。</p><h2 id="製作流程"><a href="#製作流程" class="headerlink" title="製作流程"></a>製作流程</h2><p>已經有主板選用與設計定位後就到了如何驅動主板與詳細電路設計的過程，想將兩台音響都做到一至，並可以長時間播放音頻，以這為目標，我決定將兩個音響都放入18650鋰聚合物電池，並搭配保護板，作為充電時的保護與電池電力輸出過放保護，那揚聲器則選用兩個2吋, 10W, 4歐的全頻喇叭讓藍芽解碼版推動，這樣的組合應用於左右聲道的音響。底座需要更大的容量為兩台音響充電，所以選用兩節18650鋰聚合物電池搭配充電模塊，同時底座也可以為其他裝置提供電源，所以會設計帶一個USBA輸出端口，為音響充電的設計則是使用磁吸與觸點連接方式，當音響放置上充電座時會有磁鐵校正位置定對接觸點，由處點提供電力。</p><h3 id="材料預備"><a href="#材料預備" class="headerlink" title="材料預備"></a>材料預備</h3><p>材料預備分類會簡單分成元件類群中的音響本體與充電底座，剩餘雜項為板材跟板材相關黏著劑。</p><h4 id="音響本體"><a href="#音響本體" class="headerlink" title="音響本體"></a>音響本體</h4><table><thead><tr><th align="center">材料名稱</th><th align="center">長mm</th><th align="center">寬mm</th><th align="center">高mm</th><th align="center">數量</th><th align="center">用途</th></tr></thead><tbody><tr><td align="center">鎳片</td><td align="center">4.9</td><td align="center">4.9</td><td align="center">0.1</td><td align="center">2</td><td align="center">導電充電座電源</td></tr><tr><td align="center">鋰電池</td><td align="center">54</td><td align="center">20</td><td align="center">10</td><td align="center">1</td><td align="center">電力來源</td></tr><tr><td align="center">喇叭</td><td align="center">51.7</td><td align="center">51.7</td><td align="center">28</td><td align="center">2</td><td align="center">外放聲音</td></tr><tr><td align="center">解碼器</td><td align="center">60</td><td align="center">25</td><td align="center">8.8</td><td align="center">1</td><td align="center">藍芽解碼與溝通</td></tr><tr><td align="center">旋鈕</td><td align="center">32</td><td align="center">18</td><td align="center">15</td><td align="center">1</td><td align="center">外置音量調節</td></tr><tr><td align="center">充電板</td><td align="center">28.25</td><td align="center">17.4</td><td align="center">4.1</td><td align="center">1</td><td align="center">充電過電保護</td></tr><tr><td align="center">微動開關</td><td align="center">19.8</td><td align="center">9.2</td><td align="center">10.6</td><td align="center">1</td><td align="center">微動開關</td></tr></tbody></table><h4 id="充電底座"><a href="#充電底座" class="headerlink" title="充電底座"></a>充電底座</h4><table><thead><tr><th align="center">材料名稱</th><th align="center">長mm</th><th align="center">寬mm</th><th align="center">高mm</th><th align="center">數量</th><th align="center">用途</th></tr></thead><tbody><tr><td align="center">鋰電池</td><td align="center">18.5</td><td align="center">18.5</td><td align="center">65</td><td align="center">1</td><td align="center">充電座電池</td></tr><tr><td align="center">保護板</td><td align="center">27</td><td align="center">20</td><td align="center">11</td><td align="center">1</td><td align="center">充電輸出保護</td></tr><tr><td align="center">撞針</td><td align="center">4.5</td><td align="center">1.95</td><td align="center">1.46</td><td align="center">4</td><td align="center">輸出過電</td></tr></tbody></table><h4 id="板材"><a href="#板材" class="headerlink" title="板材"></a>板材</h4><table><thead><tr><th align="center">材料名稱</th><th align="center">長mm</th><th align="center">寬mm</th><th align="center">高mm</th><th align="center">數量</th><th align="center">用途</th></tr></thead><tbody><tr><td align="center">3mm密集板</td><td align="center">N</td><td align="center">N</td><td align="center">N</td><td align="center">1</td><td align="center">外觀</td></tr></tbody></table><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 作品紀錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 手作 </tag>
+            
+            <tag> 音響設計 </tag>
+            
+            <tag> 創意發想案 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>動手做之個人部落格搭建</title>
+      <link href="/2024/10/04/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8B%E5%80%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E6%A0%BC%E6%90%AD%E5%BB%BA/"/>
+      <url>/2024/10/04/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8B%E5%80%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E6%A0%BC%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="個人部落格搭建主題介紹"><a href="#個人部落格搭建主題介紹" class="headerlink" title="個人部落格搭建主題介紹"></a>個人部落格搭建主題介紹</h1><!-- <div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style> -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 製作教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Keychron K3鍵盤</title>
+      <link href="/2024/10/02/%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%96%A6%E4%B9%8BKeychronK3%E7%84%A1%E7%B7%9A%E8%97%8D%E8%8A%BD%E9%8D%B5%E7%9B%A4/"/>
+      <url>/2024/10/02/%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%96%A6%E4%B9%8BKeychronK3%E7%84%A1%E7%B7%9A%E8%97%8D%E8%8A%BD%E9%8D%B5%E7%9B%A4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="好物推薦之Keychron-K3矮軸機械鍵盤！"><a href="#好物推薦之Keychron-K3矮軸機械鍵盤！" class="headerlink" title="好物推薦之Keychron K3矮軸機械鍵盤！"></a>好物推薦之Keychron K3矮軸機械鍵盤！</h1><h4 id="使用體驗與感想為站主個人主觀感想！若與實際體驗不符合物噴。"><a href="#使用體驗與感想為站主個人主觀感想！若與實際體驗不符合物噴。" class="headerlink" title="使用體驗與感想為站主個人主觀感想！若與實際體驗不符合物噴。"></a>使用體驗與感想為站主個人主觀感想！若與實際體驗不符合物噴。</h4><h2 id="鍵盤介紹與數據"><a href="#鍵盤介紹與數據" class="headerlink" title="鍵盤介紹與數據"></a>鍵盤介紹與數據</h2><h3 id="前言介紹"><a href="#前言介紹" class="headerlink" title="前言介紹"></a>前言介紹</h3><p>Keychron K3是一把辦公文書與電競遊戲間適用的矮軸鍵盤，鍵盤布局為75%配列，相當緊湊的排列搭配矮軸沒有誤觸或用久手痠的問題，對辦公文書也非常友好，我也經常使用這把鍵盤作為在家主力鍵盤，除了舒適的使用體驗也讓辦公更有效率。這把鍵盤除了透過藍芽連接外同時也能夠切換使用模式，適配<mark class="hl-label blue">Windows</mark> 與<mark class="hl-label purple">MacOS</mark> 快捷鍵，對喜歡機械鍵盤但不打遊戲的Mac用戶非常友好，快捷鍵不少的情況下依舊可以體驗機械鍵盤帶來的優秀手感，絕對是你在文書處裡的得力助手啦！</p><h3 id="多功能與亮點"><a href="#多功能與亮點" class="headerlink" title="多功能與亮點"></a>多功能與亮點</h3><p>Keychron K3主打的就是超輕薄、無線，除了可以連接Mac享有所有MacOS當中的快捷鍵與便利功能外，這把鍵盤可以記憶三個裝置，可以自由透過快捷鍵切換藍芽連接的裝置，對於有多個裝置辦公的朋友來說非常適合。並且在極致輕薄加上矮軸的情況下鍵盤的結構強度也相當強悍，有鋁合金底板不容易在打字時中央彎折或有彈性感覺，整體打字起來手感偏硬，也更耐按不會油膩。</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/pf-f12e1f20--keychronk3v2.jpeg?v=1622429272" style="width:1000px;"/></div></div><h3 id="總結優缺點"><a href="#總結優缺點" class="headerlink" title="總結優缺點"></a>總結優缺點</h3><p>這裡列下日常對於一把便協攜帶又能辦公文武雙全的機械鍵盤該有什麼功能，而Keychron K3滿足了多少，又有甚麼可能是你需要或想要但是他沒有的！希望這樣可以讓你更確認這是不是一把適合你使用的機械鍵盤！</p><div class='checkbox'><input type="checkbox" />            <p>2.4Ghz無線連接</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>線連接（Type-C）</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>BlueTooth藍芽連接</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>系統模式切換</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>快捷鍵</p>            </div><div class='checkbox'><input type="checkbox" />            <p>RGB炫彩燈光</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>白色背光燈</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>燈光效果切換</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>MacOS快捷鍵與Fn</p>            </div><p>那除了以上幾點外鍵盤整體做工與大鍵品質把控也都非常好，沒有不平穩或頓感，單一按鍵按下時用力按壓周圍按鍵也不會有下沉或形變，這點可以贏過市面上Gasket結構的鍵盤，也對舒適度有所提升。<br>可能很多人在意的燈光效果在這把鍵盤上確實是沒有那麼突出，你可以選擇有RGB全彩背板燈校的款式，但價格較高外也並不搭配這把鍵盤簡約優雅的外型，個人更推薦白光背光款式，更好看也更耐看。在調整效果上是有獨立控制的模式切換，可以根據你所按下的按鍵向外擴展燈光或點陣等效果，我是不那麼在意這把鍵盤的更光效果，所以我覺得已經非常夠用，平時打字辦公也沒人看著鍵盤按事吧，所以這點也真的不是那麼重要。</p><h3 id="軸體選擇"><a href="#軸體選擇" class="headerlink" title="軸體選擇"></a>軸體選擇</h3><p>說道這把鍵盤的軸體那可以說是相當好的優點之一，Keychron K3選用了Gateron的軸，可以選擇 <mark class="hl-label orange">茶軸</mark> 、<mark class="hl-label red">紅軸</mark> 、<mark class="hl-label blue">青軸</mark>  品質不用考量，都方常優秀，衛星軸也相當穩，我自己買的就是茶軸，聲音好聽手感也耐按，喜歡清脆聲音的朋友可以買青軸，對辦公環境有要求的朋友可以選相對更安靜沉悶的紅軸，每個軸都有獨特手感，因人而異，建議先到線下店體驗其他廠牌軸體，有一些概念後再來選購，若可以體驗到矮軸的鍵盤手感更好，對選購會更有概念！</p><h3 id="Keychron-K3實體樣張"><a href="#Keychron-K3實體樣張" class="headerlink" title="Keychron K3實體樣張"></a>Keychron K3實體樣張</h3><p>給各位看看我自己使用了半年的Keychron K3白色茶軸款。</p><!-- <div class="gallery-group-main">   <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://bu.dusays.com/2023/06/01/64788f24d05bd.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">側面　Keychron</div>  <p>K3側視</p>  <a href='/wordScenery/'></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://bu.dusays.com/2023/06/01/64788f456fc3d.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">正面　Keychron</div>  <p>K3上視</p>  <a href='/thousand/'></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://bu.dusays.com/2023/06/01/64788f83e5fa1.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背面　Keychron</div>  <p>K3背面</p>  <a href='/wallpaper/'></a>  </figcaption>  </figure>     <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://bu.dusays.com/2023/06/01/64788f83e5fa1.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">燈光　Keychron</div>  <p>K3燈光展示</p>  <a href='/wallpaper/'></a>  </figcaption>  </figure>  </div> --><h2 id="推薦的購買渠道"><a href="#推薦的購買渠道" class="headerlink" title="推薦的購買渠道"></a>推薦的購買渠道</h2><div class="flink"><div class="flink-name">購買渠道</div><div class="flink-desc">建議的線上購買渠道</div> <div class="flink-list"><div class="anzhiyu-flink-list">            <div class="flink-list-item">              <a href="https://world.taobao.com/item/681582951303.htm" title="掏保" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://cdn4.iconfinder.com/data/icons/chinas-social-share-icons/256/cssi_taobao-512.png" onerror='this.onerror=null;this.src="https://camo.githubusercontent.com/e06889a49076e66efaab0dc02ceeca13c9a3b393e65eae90b7655491d3538204/68747470733a2f2f6e706d2e656c656d6563646e2e636f6d2f616e7a686979752d6173736574732f696d6167652f636f6d6d6f6e2f6769746875622d696e666f2f4b6e6f636b2d436f64652e676966"' alt="掏保" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">掏保</div>                  <div class="flink-item-desc" title="非官方，更便宜">非官方，更便宜</div>                </div>              </a>            </div>            <div class="flink-list-item">              <a href="https://shopee.tw/list/Keychron/K3" title="蝦皮" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://mms.img.susercontent.com/3d18f46ac88f629cdbca35fa6ea61b17" onerror='this.onerror=null;this.src="https://camo.githubusercontent.com/e06889a49076e66efaab0dc02ceeca13c9a3b393e65eae90b7655491d3538204/68747470733a2f2f6e706d2e656c656d6563646e2e636f6d2f616e7a686979752d6173736574732f696d6167652f636f6d6d6f6e2f6769746875622d696e666f2f4b6e6f636b2d436f64652e676966"' alt="蝦皮" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">蝦皮</div>                  <div class="flink-item-desc" title="非官方，更快速">非官方，更快速</div>                </div>              </a>            </div>            <div class="flink-list-item">              <a href="https://www.keychron.com.tw/products/keychron-k3-wireless-mechanical-keyboard" title="官方商城" class="cf-friends-link" target="_blank">                <div class="flink-item-icon">                  <img class="no-lightbox cf-friends-avatar" src="https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_large.png?v=1580549123" onerror='this.onerror=null;this.src="https://camo.githubusercontent.com/e06889a49076e66efaab0dc02ceeca13c9a3b393e65eae90b7655491d3538204/68747470733a2f2f6e706d2e656c656d6563646e2e636f6d2f616e7a686979752d6173736574732f696d6167652f636f6d6d6f6e2f6769746875622d696e666f2f4b6e6f636b2d436f64652e676966"' alt="官方商城" />                </div>                <div class="flink-item-info">                  <div class="flink-item-name">官方商城</div>                  <div class="flink-item-desc" title="官方，品質更有保障">官方，品質更有保障</div>                </div>              </a>            </div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 好物推薦 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 好物推薦 </tag>
+            
+            <tag> 科技數碼產品 </tag>
+            
+            <tag> 鍵盤 </tag>
+            
+            <tag> 娛樂 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>比賽紀錄之長庚杯</title>
+      <link href="/2024/09/27/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E9%95%B7%E5%BA%9A%E6%9D%AF/"/>
+      <url>/2024/09/27/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E9%95%B7%E5%BA%9A%E6%9D%AF/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2024長庚盃全國高中智慧生活探究競賽"><a href="#2024長庚盃全國高中智慧生活探究競賽" class="headerlink" title="2024長庚盃全國高中智慧生活探究競賽"></a>2024長庚盃全國高中智慧生活探究競賽</h1><p>這是我（呂宥德）與校內同學張鈞傑第二次一同參與校外競賽。比賽主辦方為長庚大學電機系，屬於系內對外舉辦的智慧生活競賽。<br>除了是我們的第二次挑戰校外競賽之外，這也是長庚大學電機系的首次對外競賽主辦；比賽分為初審與決賽兩個關卡，初審過後學生小組將利用一個月時間完成自己的作品，包括硬體與軟體和最終報告的呈現，比賽沒有限制報告的方式與簡報規範，決賽以教授跑台機制，教授給每一組別１０分鐘的報告時間與５分鐘的提問時間，小組將在決賽當天用這１５分鐘盡可能完成作品與理念介紹和該左品解決的生活問題。</p><h1 id="我們的比賽主題"><a href="#我們的比賽主題" class="headerlink" title="我們的比賽主題"></a>我們的比賽主題</h1><p>這一次比賽我與鈞傑共同合作，由於我是小組組長，我帶領討論，所以我們便決定製作與我專業更相關的藍芽音響，並在藍芽音響的基處上研發物聯網與智慧功能，在設計中我們想像作品可以擁有智慧音響本體與音響配套軟體，可以透過軟體的控制改變音響燈光效果與燈關互動顏色，並結合AI生成無聲音背景音樂做到讓音樂療育人心的效果，音響的使用情境為室內或家中房間，可以在小空間中讓音響燈光搭配生成音樂改變當下的氣氛，可以緩解使用者情緒也可以做到創造情境的效果！這也是我們作品名稱的由來：情境精靈智慧音響。</p><div class="video-container"><iframe width="550" height="305" src="https://www.youtube.com/embed/lkR_2QaDTik?si=LjkCxMVgJlRr3AjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><h1 id="設計與實作過程"><a href="#設計與實作過程" class="headerlink" title="設計與實作過程"></a>設計與實作過程</h1><p>由於確認我們過了初審以後當下我在美國，沒有時間與鈞傑做討論，我們到了比賽前最後１２天我回到了台灣我們才正式開始主體音響的實作，在這之前鈞傑就對燈光控制與物聯網略有研究，所以我們非常快的進入趕工，以下就是我們趕工的歷程與製作過程。</p><h2 id="分工合作"><a href="#分工合作" class="headerlink" title="分工合作"></a>分工合作</h2><p>呂宥德</p><blockquote><p>負責音響主體製作與硬體電源管理部分</p></blockquote><p>張鈞傑</p><blockquote><p>負責物聯網燈校控制硬體與程式部分</p></blockquote><h2 id="音響主體"><a href="#音響主體" class="headerlink" title="音響主體"></a>音響主體</h2><p>音響主體設計參考Apple HomePod採用圓筒形架構，不同為我們的燈帶可以獨立控制、變化、呼吸、靈敏、色彩。音響內部揚聲器（喇叭）包含一個全音域和一個低音揚聲器，瓦數為50w由BDM3P擴大器推動，電源則由兩塊18650鋰聚合物電池串聯後升壓至12v推動整個機組。在燈效與手機控制部分由ESP32驅動，帶動WS2812燈帶來</p><h2 id="軟體介面"><a href="#軟體介面" class="headerlink" title="軟體介面"></a>軟體介面</h2><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 比賽紀錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 比賽紀錄 </tag>
+            
+            <tag> 多元表現 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>比賽紀錄之中學生黑客松</title>
+      <link href="/2024/09/27/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E4%B8%AD%E5%AD%B8%E7%94%9F%E9%BB%91%E5%AE%A2%E6%9D%BE/"/>
+      <url>/2024/09/27/%E6%AF%94%E8%B3%BD%E7%B4%80%E9%8C%84%E4%B9%8B%E4%B8%AD%E5%AD%B8%E7%94%9F%E9%BB%91%E5%AE%A2%E6%9D%BE/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 比賽紀錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中 </tag>
+            
+            <tag> 比賽紀錄 </tag>
+            
+            <tag> 多元表現 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>動手做教學之PicoGameBoy(未完成)</title>
+      <link href="/2024/09/26/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8BPicoGameBoy/"/>
+      <url>/2024/09/26/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8BPicoGameBoy/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Pico-GameBoy主題介紹"><a href="#Pico-GameBoy主題介紹" class="headerlink" title="Pico GameBoy主題介紹"></a>Pico GameBoy主題介紹</h1><p>我將透過影片與部落格帶你手把手製作屬於你的GameBoy復古遊戲機，主軸在外殼設計和電路邏輯上！<br>編成與教學不易，不妨收藏本站並在我們的官方YouTube與Instagram關注更多教學！你們的關注就是對我的支持！</p><h2 id="前導介紹"><a href="#前導介紹" class="headerlink" title="前導介紹"></a>前導介紹</h2><blockquote><p>在了解什麼是”Pico”前認識”GameBoy”吧！<br>GameBoy是一種復古掌上型遊戲機類型，能夠透過卡帶遊玩多種遊戲，多為單機片遊戲。<br>那為什麼名稱是Pico GameBoy呢？<br>我們的手作掌機內搭載Raspberry Pi Pico主板，這是一片單機版，可以驅動LCD螢幕並透過模擬器運行GameBoy遊戲！<br>當然在動手作當中技術往往不是最難的點，希望各位還是保持創新力打造屬於自己的外殼，我只提供一個基礎帶領各位能夠了解Raspberry Pi Pico的邏輯與復古遊戲的奧妙之處，讓大家可以基於我的設計改善外觀和體驗！</p></blockquote><h2 id="基礎技能須知"><a href="#基礎技能須知" class="headerlink" title="基礎技能須知"></a>基礎技能須知</h2><ol><li>需掌握烙鐵焊接技巧</li><li>了解如何調適雷射切割機</li><li>能夠看懂基礎電路電路圖</li><li>動手能力強能夠撥線、畫圖等基礎技巧</li></ol><h2 id="材料準備"><a href="#材料準備" class="headerlink" title="材料準備"></a>材料準備</h2><table><thead><tr><th align="center">用途</th><th align="center">材料名稱</th><th align="center">建議購買途徑</th><th align="center">數量</th></tr></thead><tbody><tr><td align="center">外殼設計</td><td align="center">雷切用3mm密集板</td><td align="center">線下購買</td><td align="center">x1</td></tr><tr><td align="center">木板黏接</td><td align="center">快乾強力膠水</td><td align="center">線下購買</td><td align="center">x1</td></tr><tr><td align="center">電線</td><td align="center">1A多芯電線</td><td align="center">線下購買</td><td align="center">x1</td></tr><tr><td align="center">主機板</td><td align="center">Raspberry Pi Pico</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">顯示螢幕</td><td align="center">2.2inch ILI9225 176×220 LCD Display Module</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">遊戲卡帶</td><td align="center">32GB Micro SD Card with adapter</td><td align="center">線下購買</td><td align="center">x1</td></tr><tr><td align="center">控制按鈕</td><td align="center">Momentary Tactile Tact Touch, 6x6x6 mm, 4 pins</td><td align="center">線下購買</td><td align="center">x8</td></tr><tr><td align="center">聲音解碼</td><td align="center">MAX98357 I2S Audio Amplifier Module</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">遊戲音效</td><td align="center">Weewooday 2W 8 Ohm small speaker</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">電源</td><td align="center">Lithium Polymer Battery 3.7V 2000mAh</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">充電與保護</td><td align="center">TP4056 Type-C Charger</td><td align="center">線上選購</td><td align="center">x1</td></tr><tr><td align="center">總電源</td><td align="center">SS12F15 Miniature Slide Switch</td><td align="center">線下購買</td><td align="center">x2</td></tr></tbody></table><h2 id="軟體燒入"><a href="#軟體燒入" class="headerlink" title="軟體燒入"></a>軟體燒入</h2><h2 id="動手製作"><a href="#動手製作" class="headerlink" title="動手製作"></a>動手製作</h2><h3 id="Step-1：主板解構"><a href="#Step-1：主板解構" class="headerlink" title="Step 1：主板解構"></a>Step 1：主板解構</h3><p><img src="https://cdn.discordapp.com/attachments/1288755285548335118/1289029113902006315/Screenshot_20240923_081149_bilibili.jpg?ex=66f75569&is=66f603e9&hm=f6bbe0377dab031f22f9f98c0b9f59226465e90103be7228ce380eb0f6a6b595&%22Pico%E4%B8%BB%E6%9D%BF%22" alt="PicoBoard"><br><strong>上圖中為Raspberry Pi Pico的主板解構，每一個針腳都有其對應功能與用途讓我們開始了解吧！</strong></p><h4 id="燒入方式"><a href="#燒入方式" class="headerlink" title="燒入方式"></a>燒入方式</h4><p>每一種開發版都有其稍入程式的方法，Pico則較為簡單，可以使用MicroPython編輯軟體燒入，也可以直接將為啟動過的Pico</p><h3 id="Step-2：連接螢幕"><a href="#Step-2：連接螢幕" class="headerlink" title="Step 2：連接螢幕"></a>Step 2：連接螢幕</h3><h3 id="Step-3：連接喇叭"><a href="#Step-3：連接喇叭" class="headerlink" title="Step 3：連接喇叭"></a>Step 3：連接喇叭</h3><h3 id="Step-4：按鈕與電源"><a href="#Step-4：按鈕與電源" class="headerlink" title="Step 4：按鈕與電源"></a>Step 4：按鈕與電源</h3><h3 id="Step-5：電力系統"><a href="#Step-5：電力系統" class="headerlink" title="Step 5：電力系統"></a>Step 5：電力系統</h3><h3 id="Step-6：外殼製作"><a href="#Step-6：外殼製作" class="headerlink" title="Step 6：外殼製作"></a>Step 6：外殼製作</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 製作教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 手作 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
