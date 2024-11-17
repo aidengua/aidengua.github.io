@@ -45,15 +45,16 @@
   selfInfo:
     selfInfoTips1: 出生於
     selfInfoContentYear: 2007
-    selfInfoTips2: 台北市無界塾實驗教育機構
+    selfInfoTips2: 專業與興趣
     selfInfoContent2: 音響設計與網頁設計
     selfInfoTips3: 現在職業
     selfInfoContent3: 高二學生
+
   personalities:
-    author_name: 鐵弱智
-    personality_type: IMSB-A
+    author_name: 建築師
+    personality_type: INTJ-A
     photo_url: https://i.imgur.com/CuUO5lr.jpeg
-    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    personality_img: https://gd-hbimg.huaban.com/62e1c7f90cd36700756851ab9dc1e422ebb53ec71ce7-cuY0kg_fw658
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 暱稱
