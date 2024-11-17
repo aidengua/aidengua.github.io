@@ -17,6 +17,18 @@ highlight_shrink:
 top_single_background:
 ---
 # DreamersAudio Public devlog
+{% folding 2024/11/17 - 更新紀錄 %}
+
+- 更新後端部屬（Github倉庫容器）
+- 設置完整Source branch能夠在多裝置編輯底層源碼
+- 完成About頁面顯示問題修復
+- 移除點到端Proxy強制驗證加快訪問速度
+- 解決照片加載依賴加速照片載入速度
+- 全新顏色搭配改善前端觀感（僅限黑色theme白色將在下週同步色調）
+- 突然發現Deploy指令過於繁雜重新編譯了Script加速編寫效率
+
+{% endfolding %}
+
 {% folding 2024/11/06 - 更新紀錄 %}
 
 - 熱注入新Hexo7套件更新

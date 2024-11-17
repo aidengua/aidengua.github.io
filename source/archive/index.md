@@ -14,4 +14,4 @@ aplayer:
 highlight_shrink:
 top_single_background:
 ---
-Archive pages
+封存項目已更新至私人倉庫，您暫無訪問權限。
