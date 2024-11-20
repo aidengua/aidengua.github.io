@@ -1,6 +1,6 @@
 ---
 title: 動手做教學之PicoGameBoy(未完成)
-cover: https://i.imgur.com/egQPCQP.jpeg
+cover: https://cloudflare-imgbed-5re.pages.dev/file/1732083638392_1000038988.jpg
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -70,7 +70,7 @@ GameBoy是一種復古掌上型遊戲機類型，能夠透過卡帶遊玩多種�
 ## 動手製作
 
 ### Step 1：主板解構
-![PicoBoard](https://cdn.discordapp.com/attachments/1288755285548335118/1289029113902006315/Screenshot_20240923_081149_bilibili.jpg?ex=66f75569&is=66f603e9&hm=f6bbe0377dab031f22f9f98c0b9f59226465e90103be7228ce380eb0f6a6b595&"Pico主板")
+![PicoBoard]("https://cloudflare-imgbed-5re.pages.dev/file/1732083739605_image.png")
 **上圖中為Raspberry Pi Pico的主板解構，每一個針腳都有其對應功能與用途讓我們開始了解吧！**
 #### 燒入方式
 每一種開發版都有其稍入程式的方法，Pico則較為簡單，可以使用MicroPython編輯軟體燒入，也可以直接將為啟動過的Pico

@@ -13,6 +13,7 @@ menu:
      我的裝備: /equipment/ || anzhiyu-icon-dice-d20
 
    其他:
+     音乐馆: /music/ || icon-music
      查看封存內容: /archive/ || anzhiyu-icon-history
      部落格更新紀錄: /devlog/ || anzhiyu-icon-rocket
    
@@ -982,7 +983,7 @@ pangu:
 # Lazyload (图片懒加载)
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
-  enable: true
+  enable: false
   field: site # site/post
   placeholder:
   blur: true

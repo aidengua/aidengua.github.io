@@ -92,7 +92,10 @@ pagination_dir: page
 include:
 exclude:
 ignore:
-
+aplayer:
+  meting: true
+  asset_inject: false
+  
 theme: anzhiyu
 
 # Deployment
