@@ -25,10 +25,10 @@
   description: 記錄下我的生活中可愛有趣的事物，時常沒有邏輯！
   top_link: /album
   top_btn_text: 上一頁
-  cover: https://i.imgur.com/aPz17pd.jpeg
-  top_background: https://i.imgur.com/aPz17pd.jpeg
+  cover: https://cloudflare-imgbed-5re.pages.dev/file/1732107815053_aPz17pd.jpeg
+  top_background: https://cloudflare-imgbed-5re.pages.dev/file/1732107815053_aPz17pd.jpeg
   album_list:
     - date: 2024-09-24
       content: 華盛頓湖與老爸合影
       image:
-        - https://i.imgur.com/aPz17pd.jpeg
+        - https://cloudflare-imgbed-5re.pages.dev/file/1732107815053_aPz17pd.jpeg
