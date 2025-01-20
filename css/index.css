@@ -23028,10 +23028,9 @@ body[data-type="fcircle"] #page {
   justify-content: space-between;
   align-items: center;
   min-width: 180px;
-  height: 24%;
+  height: 22%;
   width: 100%;
-
-  animation: slide-in 0.6s 0.2s backwards;
+  animation: slide-in 0.4s 0.2s backwards;
 }
 .categoryItem:last-child {
   margin-right: 0;
@@ -23047,7 +23046,7 @@ body[data-type="fcircle"] #page {
   transform: scale(1);
   transition: all 0.6s cubic-bezier(0.25, 0.15, 0.08, 0.8);
   height: 100%;
-  border-radius: 6px;
+  border-radius: 8px;
 }
 
 a.categoryButton {
@@ -23084,19 +23083,19 @@ a.categoryButton i {
 }
 
 a.categoryButton.blue {
-  background: linear-gradient(to right, #CEFAE9, #CEFAE9);
+  background: linear-gradient(to right, #3EAFA3, #68D7CC, #5AC2B6); /* 青藍色金屬漸層 */
   background-size: 200%;
 }
 a.categoryButton.red {
-  background: linear-gradient(to right, #FFC9CF, #FFC9CF);
+  background: linear-gradient(to right, #C86E96, #E191C6, #D57AAE); /* 酒紅與珊瑚橘金屬漸層 */
   background-size: 200%;
 }
 a.categoryButton.green {
-  background: linear-gradient(to right, #619668, #619668);
+  background: linear-gradient(to right, #548A5A, #88BF82, #6CA66B); /* 苔綠與自然金屬質感 */
   background-size: 200%;
 }
 a.categoryButton.yellow {
-  background: linear-gradient(to right, #FFDE51, #FFDE51);
+  background: linear-gradient(to right, #B89F56, #EDD887, #D5B66A); /* 黃金色與溫暖金屬漸層 */
   background-size: 200%;
 }
 
@@ -23109,20 +23108,10 @@ a.categoryButton.yellow {
   opacity: 0.8;
   transition: 0.2s;
   transition-delay: 0.15s;
-  transform: scale(1.03);
+  transform: scale(1.0);
   font-size: 2.5rem;
   filter: blur(0);
-  top: 15%;
-}
-a.categoryButton:after {
-  top: 47px;
-  width: 1rem;
-  left: 21px;
-  height: 2px;
-  background: var(--anzhiyu-white);
-  content: "";
-  border-radius: 1px;
-  position: absolute;
+  top: 5%;
 }
 
 @media screen and (max-width: 768px) {
@@ -23132,19 +23121,19 @@ a.categoryButton:after {
 }
 
 [data-theme="dark"] a.categoryButton.blue {
-  background: linear-gradient(to right, #59C2BB, #59C2BB);
+  background: linear-gradient(to right, #3EAFA3, #68D7CC, #5AC2B6); /* 青藍色金屬漸層 */
   background-size: 200%;
 }
 [data-theme="dark"] a.categoryButton.red {
-  background: linear-gradient(to right, #E191C6, #E191C6);
+  background: linear-gradient(to right, #C86E96, #E191C6, #D57AAE); /* 酒紅與珊瑚橘金屬漸層 */
   background-size: 200%;
 }
 [data-theme="dark"] a.categoryButton.green {
-  background: linear-gradient(to right, #77BB69, #77BB69);
+  background: linear-gradient(to right, #548A5A, #88BF82, #6CA66B); /* 苔綠與自然金屬質感 */
   background-size: 200%;
 }
 [data-theme="dark"] a.categoryButton.yellow {
-  background: linear-gradient(to right, #EDD887, #EDD887);
+  background: linear-gradient(to right, #B89F56, #EDD887, #D5B66A); /* 黃金色與溫暖金屬漸層 */
   background-size: 200%;
 }
 
