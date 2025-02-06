@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>ab類擴大器實作</title>
+      <link href="/2025/02/06/ab%E9%A1%9E%E6%93%B4%E5%A4%A7%E5%99%A8%E5%AF%A6%E4%BD%9C/"/>
+      <url>/2025/02/06/ab%E9%A1%9E%E6%93%B4%E5%A4%A7%E5%99%A8%E5%AF%A6%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[<h3 id="為什麼D類擴大器過於困難卻選擇AB類擴大器實作？"><a href="#為什麼D類擴大器過於困難卻選擇AB類擴大器實作？" class="headerlink" title="為什麼D類擴大器過於困難卻選擇AB類擴大器實作？"></a>為什麼D類擴大器過於困難卻選擇AB類擴大器實作？</h3><p>雖同為音訊、音頻擴大電路，但D類擴大器電路集成度非常高，原因是D類擴大器技術利用數位擴大又稱<a href="https://zh.wikipedia.org/wiki/%E8%84%88%E8%A1%9D%E5%AF%AC%E5%BA%A6%E8%AA%BF%E8%AE%8A">**脈寬調變(Pulse Width Modulation)</a>擴大器**，在電路學上Ｄ類擴大器的效率更高於傳統的A、B、C類擴大器技術，但為了達到小又高效率的品質，D類擴大器的電路有複雜的原件來達到目的，這正是我目前技術無法達到的點，但AB類則不同，可以透過晶體放大訊號，在電路板的設計上比較簡單元件也沒有D類供放那麼複雜，所以在擴大器製作若拋開D類我會選擇AB類擴大器實作。</p><h3 id="AB類擴大器基礎原理"><a href="#AB類擴大器基礎原理" class="headerlink" title="AB類擴大器基礎原理"></a>AB類擴大器基礎原理</h3><p>AB類放大器是A類和B類放大器的組合，此類放大器目的在於減少A類放大器效率較低的問題以及B類放大器波形交叉區域的信號失真。<br>主要是信號輸入之後，二極管和電阻器的組合(紅框部分)用於提供很小的偏置電壓，從而減小了交叉區域附近的波形失真，換個較白話的說法來說，此種擴大機的工作模式，在輸入信號在低電壓時，放大器是以A類工作模式放大，當輸入信號電壓提高時，則轉為B類工作模式，但效率略有下降(60％)。</p><p>AB類擴大機一般的音量欣賞音樂時還是可以聽到《低音厚實、中音柔順溫暖、高音清晰利落、層次感好》的美聲，而且它幾乎沒有Ａ類放大的缺點，包括耗電、溫度高等缺點，所以是相對廣泛應用的晶體機。</p><p>資料來源：<a href="https://danzoesoundlife.com/power-amplifier-intro/"><strong>AB類後級擴大機介紹</strong></a></p><p><a href="https://www.notion.so/A-B-ee7f8556ca40438db674cf96e36921eb?pvs=21">合為A類擴大與B類擴大器與更多資料補充</a></p><h2 id="AB類後即擴大器實作紀錄"><a href="#AB類後即擴大器實作紀錄" class="headerlink" title="AB類後即擴大器實作紀錄"></a><strong>AB類後即擴大器實作紀錄</strong></h2><p>特別感謝：王星翔同學</p><p>在實作過程中提供大量技術支援以及示波器機具協助測量。</p><ul><li><p>選用電路板</p><p>  這是一片雙聲道左右25W的AB類功放版，只有電路設計沒有元器件，所有的電容和電阻都可以自行加裝改裝，只有擴大晶體是固定的。</p><p>  <a href="https://youtube.com/shorts/Midq47efTB8?feature=share">20240320 195400</a></p></li><li><p>完成擴大器電路製作</p><p>  在這邊完成擴大器主體的電路，目前功放版可以</p><p>  <a href="https://youtube.com/shorts/RsBRyDqUnGk?feature=share">20240320 213916</a></p></li><li><p>發現音訊輸出會容易出現破音問題</p><p>  發現該問題後我分析可能因為擴大器的輸入功率不足，無法推動音響，所以換了電源供應的變壓器，接著發現會有走音的問題，於是我便決定再組裝一個前級調音作為均衡器。</p><p>  以下是調音版的展示影片：</p><p>  <a href="https://www.youtube.com/shorts/N-xjAfOlpcA">20240323 124358</a></p><p>  這片電路板在組裝後會再擴大器之前做好音訊處哩，把音效給擴大器做放大讓音響可以被推動。</p></li><li><p>兩者完成後的合併電路製作</p><p>  兩片板子完成以後將電源供應分開供應給前級調音和擴大器，音訊透過AV口進入調音做效果調整，接著輸出調整後音訊給擴大器做音頻放大，音響最終被推動。</p><p>  成果展現：</p><p>  <a href="https://www.youtube.com/shorts/CQD9P2b72vI">20240323 150624</a></p><p>  低音音頻表現：</p><p>  <a href="https://www.youtube.com/shorts/QPvb7yPP2iU">20240323 152334</a></p></li><li><p>將裸的板子進行裝機與外殼繪製</p><p>  在確認兩個版子可以結合運作以後，我運用雷切進行外殼製作。</p><p>  以下是雷切圖的外殼草稿：</p><p>  該部分為底板以及箱體，上蓋會分開切割和組裝為了之後的維修方便，蓋子不會採用固定方式。</p><p>  <img src="https://cloudflare-imgbed-5re.pages.dev/file/1738833463815_image.png" alt="image.png"></p><p>  <img src="https://cloudflare-imgbed-5re.pages.dev/file/1738833471297_image.png" alt="image.png"></p><p>  該部分為上蓋和附加底板，用卡扣固定到箱體</p><p>  <img src="https://cloudflare-imgbed-5re.pages.dev/file/1738833477535_image.png" alt="image.png"></p></li></ul><h2 id="成果展示"><a href="#成果展示" class="headerlink" title="成果展示"></a><strong>成果展示</strong></h2><p> <img src="https://cloudflare-imgbed-5re.pages.dev/file/1738833670861_1000037518.jpg" alt="1000037518.jpg"></p><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>作品集指南第三堂</title>
       <link href="/2025/01/20/%E4%BD%9C%E5%93%81%E9%9B%86%E6%8C%87%E5%8D%97%E7%AC%AC%E4%B8%89%E5%A0%82/"/>
       <url>/2025/01/20/%E4%BD%9C%E5%93%81%E9%9B%86%E6%8C%87%E5%8D%97%E7%AC%AC%E4%B8%89%E5%A0%82/</url>
@@ -343,35 +356,6 @@
             <tag> 音響設計 </tag>
             
             <tag> 創意發想案 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>動手做之個人部落格搭建</title>
-      <link href="/2024/10/04/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8B%E5%80%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E6%A0%BC%E6%90%AD%E5%BB%BA/"/>
-      <url>/2024/10/04/%E5%8B%95%E6%89%8B%E5%81%9A%E4%B9%8B%E5%80%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E6%A0%BC%E6%90%AD%E5%BB%BA/</url>
-      
-        <content type="html"><![CDATA[<h1 id="個人部落格搭建主題介紹"><a href="#個人部落格搭建主題介紹" class="headerlink" title="個人部落格搭建主題介紹"></a>個人部落格搭建主題介紹</h1><!-- <div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style> -->]]></content>
-      
-      
-      <categories>
-          
-          <category> 製作教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-            <tag> markdown </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
